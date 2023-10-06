@@ -1,4 +1,4 @@
-# Laravel Chat System with Livewire
+# TalkShop
 A real-time chat system built with Laravel and Livewire, providing a seamless and interactive chatting experience.
 
 
@@ -19,7 +19,7 @@ Node.js
 NPM
 
 ## Installation
-1. Clone the repository: https://github.com/Ahmedatefsallam7/Chat.git
+1. Clone the repository: https://github.com/Ahmedatefsallam7/TalkShop.git
 2. Navigate to the project directory: cd chat-system-laravel
 3. Install PHP dependencies: composer install
 4. Install NPM dependencies: npm install && npm run dev
