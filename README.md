@@ -35,9 +35,8 @@ Update configuration files in the config directory for any additional customizat
 
 ## Usage
 1. Run the development server: php artisan serve
-2. Visit http://localhost:8000 in your browser.
-3. Register a new account or log in.
-4. Start chatting with other users in real-time.
+2. Register a new account or log in.
+3. Start chatting with other users in real-time.
 
 
 
